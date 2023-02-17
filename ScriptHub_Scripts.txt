@@ -1,6 +1,0 @@
---Chase-
-print("Chase")
-@
---Tyler-
-print("Is Worse than chase")
-@
